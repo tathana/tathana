@@ -1,4 +1,6 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tathana&show_icons=true&theme=github_dark&hide_border=true)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=tathana&show_icons=true&theme=transparent&hide_border=true" />
+</p>
 # 👋 Hi, I'm Thanaphat Chainarong
 
 🚀 AI & Data Engineer | Backend Systems & ML Deployment  
