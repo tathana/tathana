@@ -1,79 +1,136 @@
 # 👋 Hi, I'm Thanaphat Chainarong
 
-🚀 AI & Backend Engineer | Data Platform Enthusiast  
+🚀 AI & Data Engineer | Backend Systems & ML Deployment  
 🎓 Computer Engineering & Artificial Intelligence Student  
 📍 Thailand  
 
-I build **end-to-end intelligent systems** — from data ingestion and backend APIs  
-to scalable databases and AI inference pipelines.
+I build **end-to-end intelligent systems** — from data collection and modeling  
+to scalable backend services and production-ready ML deployment.
+
+I am particularly interested in the intersection of **Machine Learning and System Engineering**,  
+where models are not just trained — but designed to operate reliably in real-world environments.
 
 ---
 
-## 🔥 What I Focus On
+# 🤖 Machine Learning Focus
 
-- ⚙️ Backend system design (FastAPI, RESTful APIs)
-- 🗄️ PostgreSQL & Time-series data architecture
-- 📊 Data pipelines & structured processing workflows
-- 🤖 AI model integration (CNN, LSTM, real-time inference)
-- ☁️ Cloud deployment & scalable infrastructure (AWS in progress)
+I work on practical ML problems with emphasis on structured experimentation and evaluation.
 
-I am particularly interested in **data platform engineering**,  
-where reliability, scalability, and system design matter as much as model accuracy.
+### Core Areas
+- Time-series analysis (ECG, environmental signals)
+- CNN / LSTM architectures
+- Model evaluation & performance metrics
+- Data preprocessing & feature engineering
+- Experimental validation & benchmarking
 
----
-
-## 🧠 Featured Projects
-
-### 🫀 SmartHeart – End-to-End AI Health Monitoring System
-Layered architecture system for real-time ECG monitoring  
-- FastAPI backend  
-- PostgreSQL + TimescaleDB  
-- CNN-LSTM inference pipeline  
-- Mobile (Flutter) + Dashboard integration  
-
-👉 System-level architecture design & scalable data handling  
+### What I Care About in ML
+- Clear problem framing
+- Clean data pipelines
+- Reproducible experiments
+- Meaningful metrics (not just accuracy)
+- Understanding model limitations
 
 ---
 
-### 🌊 AI Lifeguard – Real-Time Drowning Detection
-Computer vision system for high-risk drowning detection  
-- Real-time video inference  
-- Backend alert pipeline  
-- Achieved **99.4% recall** in testing  
+# ⚙️ Engineering & Deployment Focus
+
+I enjoy building the systems around ML models — the part that makes them usable in production.
+
+### Backend & Data Engineering
+- RESTful API design (FastAPI)
+- PostgreSQL / Time-series database design
+- Schema normalization & indexing
+- Data ingestion workflows
+- Backend inference services
+
+### System Design
+- Layered architecture
+- Separation of concerns
+- Secure API communication (JWT)
+- Scalable storage for high-frequency data
+- End-to-end pipeline ownership
+
+---
+
+# 🧠 Featured Projects
+
+## 🫀 SmartHeart – End-to-End AI Health Monitoring System
+
+A layered architecture system for real-time ECG monitoring and heart condition classification.
+
+**ML Side**
+- CNN-LSTM classification pipeline
+- Time-series preprocessing & validation
+
+**Engineering Side**
+- FastAPI backend
+- PostgreSQL + TimescaleDB
+- Structured API-based dashboard integration
+- System-level architecture documentation
+
+👉 Designed as a scalable, production-oriented healthcare prototype
+
+---
+
+## 🌊 AI Lifeguard – Real-Time Drowning Detection
+
+Computer vision system for automated drowning risk detection.
+
+- Real-time video inference
+- Backend alert processing
+- Event-based architecture
+- Achieved **99.4% recall** in high-risk testing environments
 
 🏅 Gold Medal – IFIA / IPITEx 2026  
+🏅 Silver Medal – Thailand Research Expo 2025  
 
 ---
 
-### 🌍 AquaSight – Satellite-Based Environmental Monitoring
-Automated data ingestion using n8n + Google Earth APIs  
-- Environmental time-series processing  
-- Backend deployment on Render  
-- Classification pipeline for scalable monitoring  
+## 🌍 AquaSight – Satellite-Based Environmental Monitoring
+
+Automated environmental monitoring system using remote sensing data.
+
+- n8n-based automated data ingestion
+- Google Earth API integration
+- Environmental time-series processing
+- Backend deployed on cloud platform
+- Structured classification pipeline
 
 ---
 
-## 🏗 Engineering Mindset
+# 🏗 My Engineering Philosophy
 
-I enjoy solving problems at the **system level**:
-- How data flows across services
-- How to design reliable APIs
-- How infrastructure supports ML workloads
-- How architecture reduces complexity for downstream users
+I don’t see ML and backend as separate worlds.
 
 I care about:
-- Clean system boundaries
-- Scalable database design
-- Production-ready architecture
-- End-to-end ownership
+- How data flows across systems
+- How models integrate into APIs
+- How databases support analytical workloads
+- How architecture choices affect scalability
+- How to reduce system complexity for downstream users
+
+For me, strong ML is incomplete without strong infrastructure.
 
 ---
 
-## 📫 Connect With Me
+# 🎯 Career Direction
 
-- 💼 LinkedIn: https://www.linkedin.com/in/thanaphat-chainarong-a65bb02a1
-- 📧 Email: thanaphatchainarong@gmail.com
+I am exploring roles in:
+
+- Data Science
+- Machine Learning Engineering
+- Data Platform Engineering
+- Backend AI Systems
+
+My goal is to work on systems where **data, models, and infrastructure meet at scale**.
 
 ---
 
-> Building systems that scale. Not just models that predict.
+# 📫 Connect With Me
+
+💼 LinkedIn: https://www.linkedin.com/in/thanaphat-chainarong-a65bb02a1  
+📧 Email: thanaphatchainarong@gmail.com  
+
+---
+
+> Building systems that scale — not just models that predict.
