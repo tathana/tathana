@@ -1,3 +1,4 @@
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tathana&show_icons=true&theme=default)
 # 👋 Hi, I'm Thanaphat Chainarong
 
 🚀 AI & Data Engineer | Backend Systems & ML Deployment  
