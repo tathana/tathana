@@ -1,83 +1,64 @@
 # 👋 Hi, I'm Thanaphat Chainarong
 
-🚀 AI & Data Engineer | Backend Systems & ML Deployment  
+🚀 AI & Data Systems Engineer | Fullstack & ML Deployment  
 🎓 Computer Engineering & Artificial Intelligence Student  
 📍 Thailand  
 
 I build **end-to-end intelligent systems** — from data collection and modeling  
-to scalable backend services and production-ready ML deployment.
+to backend services, data pipelines, and production-ready deployments.
 
-I am particularly interested in the intersection of **Machine Learning and System Engineering**,  
-where models are not just trained — but designed to operate reliably in real-world environments.
-
----
-
-# 🤖 Machine Learning Focus
-
-I work on practical ML problems with emphasis on structured experimentation and evaluation.
-
-### Core Areas
-- Time-series analysis (ECG, environmental signals)
-- CNN / LSTM architectures
-- Model evaluation & performance metrics
-- Data preprocessing & feature engineering
-- Experimental validation & benchmarking
-
-### What I Care About in ML
-- Clear problem framing
-- Clean data pipelines
-- Reproducible experiments
-- Meaningful metrics (not just accuracy)
-- Understanding model limitations
+My interests lie at the intersection of **Machine Learning, Data Engineering, and System Design**,  
+where models are not only trained but integrated into scalable real-world systems.
 
 ---
 
-# ⚙️ Engineering & Deployment Focus
+# ⚙️ Engineering & Data Focus
 
-I enjoy building the systems around ML models — the part that makes them usable in production.
+I enjoy building the **systems around data and machine learning models** — the infrastructure that makes them usable in production.
 
 ### Backend & Data Engineering
 - RESTful API design (FastAPI)
-- PostgreSQL / Time-series database design
-- Schema normalization & indexing
-- Data ingestion workflows
-- Backend inference services
+- Data pipelines & ingestion workflows
+- Distributed data processing (PySpark)
+- PostgreSQL schema design & indexing
+- Time-series data processing
+
+### Fullstack & Visualization
+- Next.js web applications
+- Data dashboards & monitoring interfaces
+- Tableau analytics dashboards
+- Interactive data visualization
 
 ### System Design
 - Layered architecture
 - Separation of concerns
-- Secure API communication (JWT)
-- Scalable storage for high-frequency data
-- End-to-end pipeline ownership
+- Event-driven workflows
+- Scalable cloud deployment
 
 ---
 
 # 🧠 Featured Projects
 
-## 🫀 SmartHeart – End-to-End AI Health Monitoring System
+## 🌊 AquaSight – Coastal Water Quality Monitoring Platform
 
-A layered architecture system for real-time ECG monitoring and heart condition classification.
+Fullstack environmental monitoring platform for analyzing coastal water quality.
 
-**ML Side**
-- CNN-LSTM classification pipeline
-- Time-series preprocessing & validation
+- Built **Next.js dashboard + Python backend**
+- Automated data ingestion using **n8n + Google Earth APIs**
+- Environmental **time-series processing & classification pipeline**
+- Interactive monitoring dashboard and station comparison
+- Cloud deployment using **Vercel (frontend) and Render (backend)**
 
-**Engineering Side**
-- FastAPI backend
-- PostgreSQL + TimescaleDB
-- Structured API-based dashboard integration
-- System-level architecture documentation
-
-👉 Designed as a scalable, production-oriented healthcare prototype
+👉 Designed as a data-driven environmental monitoring system
 
 ---
 
-## 🌊 AI Lifeguard – Real-Time Drowning Detection
+## 🏊 AI Lifeguard – Real-Time Drowning Detection
 
 Computer vision system for automated drowning risk detection.
 
-- Real-time video inference
-- Backend alert processing
+- Real-time video inference pipeline
+- Backend alert processing system
 - Event-based architecture
 - Achieved **99.4% recall** in high-risk testing environments
 
@@ -86,50 +67,74 @@ Computer vision system for automated drowning risk detection.
 
 ---
 
-## 🌍 AquaSight – Satellite-Based Environmental Monitoring
+## 🛒 E-Commerce Recommendation System (PySpark)
 
-Automated environmental monitoring system using remote sensing data.
+Large-scale recommendation system built on distributed data processing.
 
-- n8n-based automated data ingestion
-- Google Earth API integration
-- Environmental time-series processing
-- Backend deployed on cloud platform
-- Structured classification pipeline
+- Processed e-commerce user interaction data
+- Implemented **collaborative filtering**
+- Built recommendation pipelines using **PySpark**
+- Designed preprocessing workflows for behavioral datasets
 
 ---
 
-# 🏗 My Engineering Philosophy
+## 📊 Global Happiness Analytics Dashboard (Tableau)
 
-I don’t see ML and backend as separate worlds.
+Interactive dashboard analyzing global socio-economic indicators.
+
+- Built **Tableau visual analytics dashboards**
+- Explored relationships between GDP, life expectancy, social support, freedom, and corruption
+- Developed trend and correlation analysis views
+
+---
+
+## 🫀 SmartHeart – AI Health Monitoring System
+
+AI-driven ECG monitoring and cardiac anomaly detection system.
+
+- CNN–LSTM classification pipeline
+- ECG signal preprocessing and feature extraction
+- PostgreSQL database design for health monitoring data
+- Backend integration for model inference
+
+---
+
+# 🏗 Engineering Philosophy
+
+I don't see **AI, data, and software systems as separate domains.**
 
 I care about:
-- How data flows across systems
-- How models integrate into APIs
-- How databases support analytical workloads
-- How architecture choices affect scalability
-- How to reduce system complexity for downstream users
 
-For me, strong ML is incomplete without strong infrastructure.
+- How data flows through systems
+- How models integrate into APIs
+- How pipelines transform raw data into insights
+- How architecture choices affect scalability
+- How to build reliable systems around ML
+
+For me, **strong AI requires strong infrastructure.**
 
 ---
 
-# 🎯 Career Direction
+# 🎯 Career Interests
 
 I am exploring roles in:
 
-- Data Science
+- Data Engineering
 - Machine Learning Engineering
 - Data Platform Engineering
-- Backend AI Systems
+- AI-powered Backend Systems
 
-My goal is to work on systems where **data, models, and infrastructure meet at scale**.
+My goal is to work on **large-scale data systems where models, data pipelines, and infrastructure meet.**
 
 ---
 
 # 📫 Connect With Me
 
-💼 LinkedIn: https://www.linkedin.com/in/thanaphat-chainarong-a65bb02a1  
-📧 Email: thanaphatchainarong@gmail.com  
+💼 LinkedIn:  
+https://www.linkedin.com/in/thanaphat-chainarong-a65bb02a1  
+
+📧 Email:  
+thanaphatchainarong@gmail.com  
 
 ---
 
