@@ -48,6 +48,7 @@ Fullstack environmental monitoring platform for analyzing coastal water quality.
 - Environmental **time-series processing & classification pipeline**
 - Interactive monitoring dashboard and station comparison
 - Cloud deployment using **Vercel (frontend) and Render (backend)**
+
 Live Demo:
 https://aquasight-web.vercel.app/
 
