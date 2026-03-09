@@ -48,6 +48,11 @@ Fullstack environmental monitoring platform for analyzing coastal water quality.
 - Environmental **time-series processing & classification pipeline**
 - Interactive monitoring dashboard and station comparison
 - Cloud deployment using **Vercel (frontend) and Render (backend)**
+Live Demo:
+https://aquasight-web.vercel.app/
+
+API:
+https://predictvalue-api.onrender.com/
 
 👉 Designed as a data-driven environmental monitoring system
 
@@ -85,7 +90,7 @@ Interactive dashboard analyzing global socio-economic indicators.
 - Built **Tableau visual analytics dashboards**
 - Explored relationships between GDP, life expectancy, social support, freedom, and corruption
 - Developed trend and correlation analysis views
-
+- Dashboard: https://public.tableau.com/app/profile/.55794271/viz/shared/SHD8M54Z9 (Group Project)
 ---
 
 ## 🫀 SmartHeart – AI Health Monitoring System
